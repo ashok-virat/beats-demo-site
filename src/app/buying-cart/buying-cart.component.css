@@ -1,0 +1,44 @@
+.container-fluid {
+    height:100vh;
+    
+}
+.input {
+    margin-top:150px;
+}
+form {
+    border-radius:20px;
+    padding:20px;
+    width:100%;
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("../../assets/Beats-Pill-Dude-Red.jpg"); 
+    height:400px; 
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    display:table; 
+    color:white;
+}
+.form-group {
+    margin-top:20px;
+}
+.center {
+
+    margin-left:auto;
+    margin-right:auto;
+}
+.btn-secondary:hover {
+    color:black;
+    cursor:pointer;
+    background-color:rgb(243, 210, 210);
+}
+.home {
+    
+    color:white;
+    font-size:17px;
+    text-align:right;
+    text-transform:uppercase;
+    font-weight: 600;
+     
+}
+p{
+    text-align: right;
+}
