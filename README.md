@@ -1,6 +1,6 @@
 # site link
 
-ec2 instance:http://ec2-13-235-67-113.ap-south-1.compute.amazonaws.com
+http://ec2-13-235-67-113.ap-south-1.compute.amazonaws.com
 
 # Headphone
 
